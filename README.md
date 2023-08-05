@@ -1,3 +1,4 @@
+![IsSupported](https://img.shields.io/badge/supported:-no-red)
 # Revmost
 The shittiest batch virus ever created
 # Compatibility
